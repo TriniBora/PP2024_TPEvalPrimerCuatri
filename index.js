@@ -1,9 +1,14 @@
-import app from './app.js';
+require('dotenv').config()
+const express = require("express");
+const app = require("./app");
 
-const main = () => {
-  app.listen(3000, () => {
-    console.log('App listening on port 3000...!');
-  });
-}
+// Environment variables
+const port = process.env.PORT || 3000;
+const domain = process.env.DOMAIN || 'localhost';
+const path = process.env.API_PATH || '/biblioteca';
+const appUrl = `http://${domain}:${port}/${path}`;
 
-main();
+// Server connection
+app.listen(port, () => {
+  console.log(`Server is running on ${appUrl}`);
+});
