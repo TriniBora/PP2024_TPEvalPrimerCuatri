@@ -1,5 +1,7 @@
-import express from 'express';
+require('dotenv').config()
+const express = require("express");
 
 const app = express();
+console.log(process.env)
 
-export default app;
+module.exports = app;
