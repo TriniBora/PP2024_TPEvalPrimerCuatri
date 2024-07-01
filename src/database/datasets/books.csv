@@ -1,0 +1,103 @@
+book_id,title,publish_year,ISBN,image,subject_title,subject_id,pages,publisher,language,author_name,author_id,rating_average
+1,The Great Gatsby,1989,971268523-3,http://dummyimage.com/203x100.png/ff4444/ffffff,Mystery,4,977,HarperCollins,English,Riane Boutton,202,5.81
+2,To Kill a Mockingbird,2010,548390492-3,http://dummyimage.com/244x100.png/5fa2dd/ffffff,Art,14,775,Elsevier,Chinese,Sayre Jewise,63,9.95
+3,Pride and Prejudice,2003,442192131-9,http://dummyimage.com/160x100.png/dddddd/000000,Fiction,1,388,Oxford University Press,French,Jessamine Tonbridge,80,3.37
+4,1984,2011,832410478-X,http://dummyimage.com/189x100.png/5fa2dd/ffffff,Self-Help,7,252,Scholastic Corporation,Chinese,Jackelyn Dutteridge,100,3.4
+5,The Catcher in the Rye,2009,030677869-6,http://dummyimage.com/121x100.png/cc0000/ffffff,Romance,5,1097,Wiley,Chinese,Daren Bratton,86,4.53
+6,Lord of the Flies,1985,749781552-0,http://dummyimage.com/164x100.png/dddddd/000000,Travel,12,91,Oxford University Press,English,Cull MacCafferky,277,2.7
+7,The Hobbit,2009,836433977-X,http://dummyimage.com/151x100.png/dddddd/000000,Humor,19,1069,Random House,English,Ericka McTrustey,134,1.19
+8,Harry Potter and the Sorcerer's Stone,1994,130635129-4,http://dummyimage.com/107x100.png/dddddd/000000,Cooking,11,437,Oxford University Press,Spanish,Rasia Petzold,255,2.14
+9,The Hunger Games,1963,391884554-0,http://dummyimage.com/222x100.png/dddddd/000000,Travel,12,548,Oxford University Press,English,Dalton O'Fallowne,83,1.65
+10,The Da Vinci Code,2006,953335725-8,http://dummyimage.com/228x100.png/dddddd/000000,Self-Help,7,1146,Oxford University Press,German,Roobbie Volett,162,7.47
+11,Gone Girl,1996,235256465-4,http://dummyimage.com/137x100.png/ff4444/ffffff,Biography,6,669,Harlequin Enterprises,French,Sam Bonass,106,1.07
+12,The Girl on the Train,2000,986356942-9,http://dummyimage.com/178x100.png/ff4444/ffffff,Thriller,10,418,Cambridge University Press,French,Gwenora Wymer,269,1.16
+13,The Alchemist,1992,647265578-2,http://dummyimage.com/116x100.png/5fa2dd/ffffff,Humor,19,965,HarperCollins,Italian,Lavena Haspineall,279,7.67
+14,The Kite Runner,1991,962932051-7,http://dummyimage.com/219x100.png/cc0000/ffffff,Poetry,13,628,Oxford University Press,Spanish,Lorette Walley,147,7.16
+15,The Fault in Our Stars,2002,692942342-4,http://dummyimage.com/193x100.png/ff4444/ffffff,Fiction,1,480,Wiley,French,Jeana Pomeroy,181,2.2
+16,The Help,1998,235400308-0,http://dummyimage.com/225x100.png/5fa2dd/ffffff,Biography,6,696,Harvard University Press,Italian,Derick Oxtaby,31,7.66
+17,The Secret Garden,2007,961595157-9,http://dummyimage.com/235x100.png/dddddd/000000,Cooking,11,318,Cengage Learning,French,Jeromy Mandel,149,6.95
+18,The Chronicles of Narnia,2005,946769572-3,http://dummyimage.com/179x100.png/5fa2dd/ffffff,Business,15,708,Houghton Mifflin Harcourt,German,Vikky Lucio,221,2.52
+19,The Outsiders,2005,261649134-6,http://dummyimage.com/222x100.png/ff4444/ffffff,Fantasy,9,342,Penguin Books,Spanish,Samuele Ponte,125,5.37
+20,The Giver,2004,380087905-0,http://dummyimage.com/244x100.png/5fa2dd/ffffff,History,8,737,Bloomsbury Publishing,English,Frans Yashaev,233,3.26
+21,The Color Purple,2010,129020594-9,http://dummyimage.com/105x100.png/dddddd/000000,Biography,6,548,Penguin Random House,German,Jeremy Popple,282,6.18
+22,The Book Thief,2011,084542891-8,http://dummyimage.com/154x100.png/5fa2dd/ffffff,Sports,18,682,Scholastic Corporation,English,Liane Chateau,138,5.82
+23,The Shining,1996,933093381-5,http://dummyimage.com/176x100.png/ff4444/ffffff,Children,20,198,Cambridge University Press,German,Darb Ricardot,273,7.82
+24,The Grapes of Wrath,1986,546831756-7,http://dummyimage.com/223x100.png/ff4444/ffffff,Poetry,13,708,Pearson,Chinese,Patrick Simmgen,139,8.47
+25,The Bell Jar,1982,502186812-8,http://dummyimage.com/140x100.png/cc0000/ffffff,Thriller,10,247,Pearson,Spanish,Roseanne Zamorano,121,6.15
+26,The Picture of Dorian Gray,2001,418871374-7,http://dummyimage.com/227x100.png/5fa2dd/ffffff,Children,20,621,Elsevier,Italian,Sarine Bauldry,299,8.84
+27,The Road,1993,663028781-9,http://dummyimage.com/102x100.png/5fa2dd/ffffff,History,8,903,Random House,Spanish,Karney Elderton,207,7.52
+28,The Handmaid's Tale,1998,823696467-1,http://dummyimage.com/123x100.png/cc0000/ffffff,Religion,17,447,Macmillan Publishers,Italian,Rosella Tute,142,3.11
+29,The Sun Also Rises,1999,493971445-4,http://dummyimage.com/151x100.png/cc0000/ffffff,Art,14,474,John Wiley & Sons,French,Roobbie Volett,162,6.23
+30,The Old Man and the Sea,1999,525791964-8,http://dummyimage.com/217x100.png/ff4444/ffffff,Fantasy,9,616,Penguin Random House,English,Karney Elderton,207,2.87
+31,The Sound and the Fury,2000,219837092-1,http://dummyimage.com/149x100.png/ff4444/ffffff,Travel,12,583,Scholastic Corporation,Spanish,Graeme Pelzer,253,8.75
+32,The Scarlet Letter,2006,611107767-8,http://dummyimage.com/158x100.png/cc0000/ffffff,Cooking,11,1009,Penguin Random House,German,Leontyne Evangelinos,204,3.21
+33,The Jungle Book,1993,318719977-1,http://dummyimage.com/212x100.png/cc0000/ffffff,Science Fiction,3,911,Houghton Mifflin Harcourt,Chinese,Roobbie Volett,162,6.01
+34,The Adventures of Tom Sawyer,2004,864263628-9,http://dummyimage.com/169x100.png/cc0000/ffffff,Health,16,632,Bloomsbury Publishing,French,Gilly Elliss,263,7.49
+35,The Count of Monte Cristo,2006,785188111-0,http://dummyimage.com/131x100.png/cc0000/ffffff,Science Fiction,3,88,Random House,Spanish,Douglass Leah,244,1.74
+36,The Three Musketeers,2004,176359275-8,http://dummyimage.com/167x100.png/dddddd/000000,Biography,6,294,Springer Nature,French,Tyrone Pencost,82,8.22
+37,The Invisible,2009,862051460-1,http://dummyimage.com/141x100.png/5fa2dd/ffffff,Biography,6,313,Wiley,German,Joni Bearman,248,1.45
+38,The War of the Worlds,2000,659722659-3,http://dummyimage.com/132x100.png/ff4444/ffffff,Cooking,11,1070,Harlequin Enterprises,Chinese,Cortie Pernell,237,2.87
+39,The Time Machine,1992,550682865-9,http://dummyimage.com/150x100.png/cc0000/ffffff,Religion,17,732,Oxford University Press,French,Antonino Worsfold,103,2.92
+40,The Call of the Wild,1999,736842853-9,http://dummyimage.com/100x100.png/5fa2dd/ffffff,Religion,17,837,HarperCollins,German,Marissa Signori,274,5.95
+41,The Swiss Family Robinson,1995,452297223-7,http://dummyimage.com/190x100.png/ff4444/ffffff,Cooking,11,986,Penguin Random House,German,Meryl Kalker,229,1.61
+42,The Little Prince,2004,906106885-1,http://dummyimage.com/177x100.png/ff4444/ffffff,Art,14,247,Oxford University Press,Italian,Brenna Fieldsend,271,2.89
+43,The Metamorphosis,1994,959909275-9,http://dummyimage.com/210x100.png/5fa2dd/ffffff,Science Fiction,3,261,Bloomsbury Publishing,Spanish,Elizabet Ramsted,196,5.4
+44,The Stranger,1989,617985305-3,http://dummyimage.com/225x100.png/cc0000/ffffff,Non-Fiction,2,1109,HarperCollins,French,Corina Rahl,246,5.98
+45,The Brothers Karamazov,1984,655421535-2,http://dummyimage.com/163x100.png/dddddd/000000,Humor,19,317,Elsevier,German,Gilly Gillogley,295,7.47
+46,The Idiot,2001,567204509-X,http://dummyimage.com/134x100.png/5fa2dd/ffffff,Mystery,4,130,Cengage Learning,German,Rivkah Randleson,136,7.99
+47,The Master and Margarita,1993,581935536-9,http://dummyimage.com/218x100.png/cc0000/ffffff,Thriller,10,344,Scholastic Corporation,Spanish,Gwenora Wymer,269,2.58
+48,The Name of the Rose,2003,642457391-7,http://dummyimage.com/180x100.png/ff4444/ffffff,Business,15,306,Scholastic Corporation,Spanish,Gui Edwinson,72,4.88
+49,The Stand,2009,878290689-0,http://dummyimage.com/112x100.png/cc0000/ffffff,Fiction,1,246,Cengage Learning,Italian,Brice Boodell,148,2.02
+50,The Talisman,1993,860500808-3,http://dummyimage.com/183x100.png/5fa2dd/ffffff,Sports,18,597,Cengage Learning,English,Perceval Sapshed,95,9.97
+51,The Green Mile,2011,574847754-8,http://dummyimage.com/209x100.png/5fa2dd/ffffff,Travel,12,1158,Harlequin Enterprises,Chinese,Milzie Gouley,289,7.12
+52,The Dark Tower,1975,204720321-X,http://dummyimage.com/217x100.png/ff4444/ffffff,Poetry,13,1149,Harlequin Enterprises,Chinese,Otis MacNaughton,18,3.8
+53,The Martian,2000,167865247-4,http://dummyimage.com/143x100.png/5fa2dd/ffffff,Poetry,13,278,Wiley,German,Regan Le Noury,26,9.75
+54,The Hitchhiker's Guide to the Galaxy,2009,195892034-7,http://dummyimage.com/159x100.png/5fa2dd/ffffff,Non-Fiction,2,870,Springer Nature,German,Pauli Tupling,195,2.4
+55,The Lord of the Rings,1995,200524701-4,http://dummyimage.com/229x100.png/cc0000/ffffff,Children,20,1085,John Wiley & Sons,French,Fidole Cometti,194,3.02
+56,The Chronicles of Prydain,2013,861310276-X,http://dummyimage.com/115x100.png/ff4444/ffffff,Travel,12,297,Scholastic Corporation,Italian,Lotte Voice,167,6.22
+57,The Wheel of Time,1990,422349221-7,http://dummyimage.com/157x100.png/ff4444/ffffff,Self-Help,7,867,Elsevier,French,Alysa Werendell,213,7.82
+58,The Malazan Book of the Fallen,1989,192209217-7,http://dummyimage.com/215x100.png/5fa2dd/ffffff,Art,14,621,Pearson,Italian,Lory Cisar,226,7.37
+59,The Stormlight Archive,1992,108920430-2,http://dummyimage.com/110x100.png/5fa2dd/ffffff,Romance,5,175,HarperCollins,Chinese,Tova Whewell,222,6.16
+60,The Kingkiller Chronicle,2006,496799337-0,http://dummyimage.com/219x100.png/5fa2dd/ffffff,Travel,12,1156,Pearson,Italian,Arlin McKnish,111,8.32
+61,The Broken Empire Trilogy,1988,335059525-1,http://dummyimage.com/165x100.png/ff4444/ffffff,Mystery,4,699,Elsevier,Italian,Lavinie Grigsby,120,6.88
+62,The First Law Trilogy,1997,728626979-8,http://dummyimage.com/248x100.png/ff4444/ffffff,Self-Help,7,754,Simon & Schuster,Chinese,Sam Bonass,106,7.56
+63,The Mistborn Trilogy,2007,743223563-5,http://dummyimage.com/209x100.png/cc0000/ffffff,Science Fiction,3,1126,Penguin Books,German,Shepherd Ferran,200,3.68
+64,The Gentleman Bastard Sequence,2006,615480009-6,http://dummyimage.com/146x100.png/cc0000/ffffff,Humor,19,773,Hachette Livre,Chinese,Mara Lukianov,193,8.29
+65,The Earthsea Cycle,1988,324170131-X,http://dummyimage.com/246x100.png/5fa2dd/ffffff,Poetry,13,627,Penguin Random House,Chinese,Margeaux Gaywood,163,1.53
+66,The Inheritance Cycle,2006,834261740-8,http://dummyimage.com/116x100.png/5fa2dd/ffffff,Cooking,11,1063,Cengage Learning,German,Daren Bratton,86,8.12
+67,The Red Rising Trilogy,2006,981950444-9,http://dummyimage.com/152x100.png/ff4444/ffffff,Non-Fiction,2,1052,Cengage Learning,Chinese,Kristin Philbrick,296,6.06
+68,The Foundation Series,2000,599847599-2,http://dummyimage.com/164x100.png/cc0000/ffffff,Thriller,10,874,Bloomsbury Publishing,Chinese,Samuele Ponte,125,5.43
+69,The Dune Series,1991,838989180-8,http://dummyimage.com/211x100.png/ff4444/ffffff,Fantasy,9,1184,John Wiley & Sons,French,Jackelyn Dutteridge,100,5.82
+70,The Hyperion Cantos,1992,727685836-7,http://dummyimage.com/222x100.png/ff4444/ffffff,Travel,12,469,Scholastic Corporation,Chinese,Tad Habens,41,5.85
+71,The Culture Series,1996,402849863-5,http://dummyimage.com/140x100.png/ff4444/ffffff,Sports,18,999,Elsevier,Italian,Liane Chateau,138,5.57
+72,The Expanse Series,1995,260663276-1,http://dummyimage.com/183x100.png/cc0000/ffffff,Cooking,11,649,Penguin Books,Spanish,Shepherd Ferran,200,9.84
+73,The Southern Reach Trilogy,1993,653177709-5,http://dummyimage.com/102x100.png/cc0000/ffffff,Biography,6,779,Hachette Livre,French,Fannie O'Donnelly,38,1.25
+74,The Themis Files,2011,640179453-4,http://dummyimage.com/143x100.png/cc0000/ffffff,Sports,18,644,Houghton Mifflin Harcourt,Spanish,Twila Schulze,191,8.88
+75,The Wayfarers Series,1997,390899932-4,http://dummyimage.com/169x100.png/ff4444/ffffff,Health,16,1118,Harvard University Press,German,Durand Verecker,259,3.75
+76,The Murderbot Diaries,2007,680218727-2,http://dummyimage.com/239x100.png/cc0000/ffffff,Science Fiction,3,592,Scholastic Corporation,Italian,Woodie Lelliott,251,6.14
+77,The Broken Earth,1993,159112553-7,http://dummyimage.com/189x100.png/cc0000/ffffff,Science Fiction,3,377,Cengage Learning,Chinese,Darb Ricardot,273,7.21
+78,The Binti Trilogy,1999,747585848-0,http://dummyimage.com/204x100.png/5fa2dd/ffffff,Non-Fiction,2,1010,Oxford University Press,Spanish,Antony De Vaux,48,6.7
+79,The Three-Body Problem Trilogy,1997,166848275-4,http://dummyimage.com/224x100.png/5fa2dd/ffffff,Fiction,1,796,Harlequin Enterprises,Italian,Mandy Edelston,137,1.22
+80,The Remembrance of Earth's Past Trilogy,2002,498017067-6,http://dummyimage.com/167x100.png/ff4444/ffffff,Health,16,691,Oxford University Press,Italian,Myrle Pankhurst.,89,3.31
+81,The Illuminae Files,1999,466932455-1,http://dummyimage.com/187x100.png/ff4444/ffffff,Fiction,1,461,Simon & Schuster,French,Tome Bleasdille,70,2.33
+82,The Red Queen Series,1999,601528219-3,http://dummyimage.com/169x100.png/dddddd/000000,Religion,17,337,HarperCollins,Italian,Sarine Bauldry,299,5.31
+83,The Lunar Chronicles,1995,337264873-0,http://dummyimage.com/250x100.png/cc0000/ffffff,Self-Help,7,97,Macmillan Publishers,English,Twila Schulze,191,8.4
+84,The Selection Series,1994,842247415-8,http://dummyimage.com/199x100.png/cc0000/ffffff,Romance,5,456,Hachette Livre,French,Jaime Pepperell,172,7.06
+85,The Maze Runner Series,1989,342926871-0,http://dummyimage.com/220x100.png/5fa2dd/ffffff,Non-Fiction,2,740,Harlequin Enterprises,English,Frans Yashaev,233,8.73
+86,The Divergent Series,1987,302572025-5,http://dummyimage.com/195x100.png/dddddd/000000,Biography,6,650,Macmillan Publishers,Spanish,Meryl Kalker,229,1.24
+87,The Uglies Series,2009,609727833-0,http://dummyimage.com/111x100.png/dddddd/000000,Romance,5,1049,Scholastic Corporation,Italian,Amargo Gauld,260,2.27
+88,The Delirium Series,1997,760246975-5,http://dummyimage.com/180x100.png/cc0000/ffffff,Humor,19,174,Bloomsbury Publishing,Spanish,Stanislaw Laden,87,2.88
+89,The Matched Trilogy,2009,086329646-7,http://dummyimage.com/209x100.png/ff4444/ffffff,Health,16,1122,Wiley,Italian,Marissa Signori,274,3.79
+90,The Legend Series,2004,621876260-2,http://dummyimage.com/163x100.png/dddddd/000000,Sports,18,961,Bloomsbury Publishing,Spanish,Ruby Larne,214,9.61
+91,The Shatter Me Series,2001,786882709-2,http://dummyimage.com/143x100.png/ff4444/ffffff,Romance,5,940,Scholastic Corporation,Italian,Riane McLugaish,10,3.43
+92,The Grisha Trilogy,1997,635830726-6,http://dummyimage.com/245x100.png/dddddd/000000,Poetry,13,351,Bloomsbury Publishing,English,Siegfried Covell,3,6.43
+93,The Daughter of Smoke and Bone Trilogy,2005,692078349-5,http://dummyimage.com/127x100.png/ff4444/ffffff,Children,20,830,Simon & Schuster,French,Nicolas Hazell,235,7.99
+94,The Raven Cycle,2006,501396862-3,http://dummyimage.com/183x100.png/ff4444/ffffff,Biography,6,404,Pearson,Chinese,Jaime Pepperell,172,5.25
+95,The Mortal Instruments Series,2000,543868666-1,http://dummyimage.com/125x100.png/ff4444/ffffff,Art,14,699,Random House,Italian,Camala Di Biagio,130,4.93
+96,The Infernal Devices Trilogy,2012,472209961-8,http://dummyimage.com/158x100.png/ff4444/ffffff,Romance,5,619,Wiley,Chinese,Richie Barkly,96,2.42
+97,The Dark Artifices Trilogy,2001,706796105-X,http://dummyimage.com/235x100.png/ff4444/ffffff,Science Fiction,3,370,Cengage Learning,Chinese,Caroline Smewin,12,2.88
+98,Moby Dick,1987,859073955-4,http://dummyimage.com/149x100.png/dddddd/000000,Self-Help,7,886,John Wiley & Sons,Italian,Lorette Walley,147,8.56
+99,War and Peace,1999,905517033-X,http://dummyimage.com/107x100.png/ff4444/ffffff,Poetry,13,502,Elsevier,German,Bartholomew Alenichev,60,3.26
+100,The Devil Wears Prada,1991,061806256-4,http://dummyimage.com/183x100.png/5fa2dd/ffffff,Children,20,355,Houghton Mifflin Harcourt,Spanish,Fidole Cometti,194,5.02
+101,Brave New World,2010,875218741-1,http://dummyimage.com/247x100.png/5fa2dd/ffffff,Art,14,156,Random House,French,Haskell Ridsdell,223,4.5
+102,1984,2008,860491202-9,http://dummyimage.com/189x100.png/cc0000/ffffff,Art,14,590,Penguin Books,Italian,Pearle Castiglioni,44,3.58

@@ -2,7 +2,6 @@ const {setApiURL, setApiURLById, setApiURLMethod, setApiURLByIdMethod} = require
 const {getBooksService, getBookByIdService, createBookService, updateBookService, deleteBookService} = require('../services/books.service');
 
 const schema = 'books';
-const apiKey = process.env.MOCKAROO_API_KEY;
 
 const getBooks = async (req, res) => {
   try {
