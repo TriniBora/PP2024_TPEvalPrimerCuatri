@@ -12,11 +12,16 @@ const setApiURLById = (schema, id) => {
 };
 
 const setApiURLMethod = (schema, method) => {
-  return `${apiURL}/${schema}.json?key=${apiKey}__method=${method}`;
+  return `${apiURL}/${schema}.json?key=${apiKey}&__method=${method}`;
+};
+
+const setApiURLByIdMethod = (schema, id, method) => {
+  return `${apiURL}/${schema}/${id}.json?key=${apiKey}&__method=${method}`;
 };
 
 module.exports = {
   setApiURL,
   setApiURLById,
-  setApiURLMethod
+  setApiURLMethod,
+  setApiURLByIdMethod
 };
