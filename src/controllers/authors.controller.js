@@ -11,7 +11,7 @@ const getAuthors = async (req, res) => {
     const apiURL = setApiURL(schema);
     const authors = await getAuthorsService(apiURL);
     
-    console.log('authors', authors)
+    //console.log('authors', authors)
     
     res.status(200).send({data: authors});
   } catch (error) {
@@ -26,7 +26,7 @@ const getAuthorById = async (req, res) => {
     // Define Mockaroo API URL, using authors as the schema and authorId as the id of the author to retrieve
     const apiURLById = setApiURLById(schema, authorId);
     const author = await getAuthorByIdService(apiURLById);
-    console.log('author', author)
+    //console.log('author', author)
 
     // Get all author's books with their data
     const authorBooksIds = author.books_ids;
@@ -54,7 +54,6 @@ const createAuthor = async (req, res) => {
   try {
     // Define Mockaroo API URL, using authors as the schema and POST as the method
     const apiURL = setApiURLMethod(schema, 'POST');
-
     const author = await createAuthorService(apiURL, authorData);
 
     res.status(201).send({message: 'Author created', data:author});
@@ -73,7 +72,7 @@ const updateAuthor = async (req, res) => {
     const apiURL = setApiURLByIdMethod(schema, authorId, 'PUT');
 
     const updatedAuthor = await updateAuthorService(apiURL, authorData);
-    console.log('updatedAuthor', updatedAuthor);
+    //console.log('updatedAuthor', updatedAuthor);
     res.status(200).json({message: 'Author updated', data: updatedAuthor});
   } catch (error) {
     console.log(error);
@@ -89,7 +88,7 @@ const deleteAuthor = async (req, res) => {
     
     const authorDeleted = await deleteAuthorService(apiURL, authorId);
 
-    console.log('authorDeleted', authorDeleted);
+    //console.log('authorDeleted', authorDeleted);
 
     res.status(200).send({message: 'Author deleted', data: {id: authorId}});
   } catch (error) {

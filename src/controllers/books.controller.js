@@ -9,7 +9,7 @@ const getBooks = async (req, res) => {
     const apiURL = setApiURL(schema);
     const books = await getBooksService(apiURL);
     
-    console.log('books', books)
+    //console.log('books', books)
     
     res.status(200).send({data: books});
   } catch (error) {
@@ -24,7 +24,7 @@ const getBookById = async (req, res) => {
     // Define Mockaroo API URL, using books as the schema and bookId as the id of the book to retrieve
     const apiURLById = setApiURLById(schema, bookId);
     const book = await getBookByIdService(apiURLById);
-    console.log('book', book)
+    //console.log('book', book)
     res.status(200).send({data: book});
   } catch (error) {
     console.error(error);
@@ -55,9 +55,8 @@ const updateBook = async (req, res) => {
   try {
     // Define Mockaroo API URL, using books as the schema, bookId as the id and PUT as the method
     const apiURL = setApiURLByIdMethod(schema, bookId, 'PUT');
-
     const updatedBook = await updateBookService(apiURL, bookData);
-    console.log('updatedBook', updatedBook);
+    //console.log('updatedBook', updatedBook);
     res.status(200).json({message: 'Book updated', data: updatedBook});
   } catch (error) {
     console.log(error);
@@ -70,10 +69,8 @@ const deleteBook = async (req, res) => {
   try {
     // Define Mockaroo API URL, using books as the schema, bookId as the id and DELETE as the method
     const apiURL = setApiURLByIdMethod(schema, bookId, 'DELETE');
-    
     const bookDeleted = await deleteBookService(apiURL, bookId);
-
-    console.log('bookDeleted', bookDeleted);
+    //console.log('bookDeleted', bookDeleted);
 
     res.status(200).send({message: 'Book deleted', data: {id: bookId}});
   } catch (error) {
