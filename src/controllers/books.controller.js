@@ -11,7 +11,7 @@ const getBooks = async (req, res) => {
     
     console.log('books', books)
     
-    res.status(200).send(books);
+    res.status(200).send({data: books});
   } catch (error) {
     console.error(error);
     res.status(500).send({error: error.message});
@@ -25,7 +25,7 @@ const getBookById = async (req, res) => {
     const apiURLById = setApiURLById(schema, bookId);
     const book = await getBookByIdService(apiURLById);
     console.log('book', book)
-    res.status(200).send(book);
+    res.status(200).send({data: book});
   } catch (error) {
     console.error(error);
     res.status(500).send({error: error.message});
@@ -58,7 +58,7 @@ const updateBook = async (req, res) => {
 
     const updatedBook = await updateBookService(apiURL, bookData);
     console.log('updatedBook', updatedBook);
-    res.status(200).json(updatedBook);
+    res.status(200).json({message: 'Book updated', data: updatedBook});
   } catch (error) {
     console.log(error);
     res.status(500).send({error: error.message});
